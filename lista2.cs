@@ -60,6 +60,7 @@ namespace ConsoleApp2
             else
             {
                 funcionarios = new List<Funcionario>();
+                //FUDEO
             }
         }
         
